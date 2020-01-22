@@ -2,6 +2,7 @@
   "tasks": [
     {
       "id": 1,
+      "category":"Personal",
       "title": "Task1",
       "description":"Task Description",
       "deadline":"2020-01-22",
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+      "category":"Personal",
       "title": "Task1",
       "description":"Task Description",
       "deadline":"2020-01-22",
@@ -22,6 +24,7 @@
     },
     {
       "id": 3,
+      "category":"Personal",
       "title": "Task1",
       "description":"Task Description",
       "deadline":"2020-01-22",
