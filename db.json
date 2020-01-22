@@ -13,23 +13,56 @@
     },
     {
       "id": 2,
-      "category":"Personal",
-      "title": "Task1",
+      "category":"Work",
+      "title": "Task2",
       "description":"Task Description",
       "deadline":"2020-01-22",
+      "taskpercentage":20,
+      "priority":"Medium",
+      "isComplete":false
+      
+    },
+    {
+      "id": 3,
+      "category":"Games",
+      "title": "Task3",
+      "description":"Task Description",
+      "deadline":"2020-01-23",
       "taskpercentage":20,
       "priority":"High",
       "isComplete":false
       
     },
     {
-      "id": 3,
-      "category":"Personal",
-      "title": "Task1",
+      "id": 4,
+      "category":"Other",
+      "title": "Task4",
       "description":"Task Description",
-      "deadline":"2020-01-22",
+      "deadline":"2020-01-23",
       "taskpercentage":20,
-      "priority":"High",
+      "priority":"medium",
+      "isComplete":false
+      
+    },
+    {
+      "id": 5,
+      "category":"Personal",
+      "title": "Task5",
+      "description":"Task Description",
+      "deadline":"2020-01-25",
+      "taskpercentage":20,
+      "priority":"Medium",
+      "isComplete":false
+      
+    },
+    {
+      "id": 6,
+      "category":"Personal",
+      "title": "Task6",
+      "description":"Task Description",
+      "deadline":"2020-01-25",
+      "taskpercentage":20,
+      "priority":"Low",
       "isComplete":false
       
     }
