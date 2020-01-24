@@ -5,7 +5,7 @@
       "category":"Personal",
       "title": "Task1",
       "description":"Task Description",
-      "deadline":"2020-01-22",
+      "deadline":"2020-01-24",
       "taskpercentage":20,
       "priority":"High",
       "isComplete":false
@@ -16,7 +16,7 @@
       "category":"Work",
       "title": "Task2",
       "description":"Task Description",
-      "deadline":"2020-01-22",
+      "deadline":"2020-01-24",
       "taskpercentage":20,
       "priority":"Medium",
       "isComplete":false
@@ -27,7 +27,7 @@
       "category":"Games",
       "title": "Task3",
       "description":"Task Description",
-      "deadline":"2020-01-23",
+      "deadline":"2020-01-25",
       "taskpercentage":20,
       "priority":"High",
       "isComplete":false
@@ -38,7 +38,7 @@
       "category":"Other",
       "title": "Task4",
       "description":"Task Description",
-      "deadline":"2020-01-23",
+      "deadline":"2020-01-21",
       "taskpercentage":20,
       "priority":"medium",
       "isComplete":false
@@ -49,7 +49,7 @@
       "category":"Personal",
       "title": "Task5",
       "description":"Task Description",
-      "deadline":"2020-01-25",
+      "deadline":"2020-01-21",
       "taskpercentage":20,
       "priority":"Medium",
       "isComplete":false
@@ -60,7 +60,7 @@
       "category":"Personal",
       "title": "Task6",
       "description":"Task Description",
-      "deadline":"2020-01-25",
+      "deadline":"2020-01-26",
       "taskpercentage":20,
       "priority":"Low",
       "isComplete":false
